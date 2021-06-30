@@ -1,0 +1,27 @@
+[
+	{
+		"file": "D:\\\\Unreal Engine Project\\\\Survival\\\\Survival\\\\Source\\\\Survival\\\\Survival.Build.cs",
+		"command": "cl.exe @\"D:\\Unreal Engine Project\\Survival\\Survival\\.vscode\\compileCommands_Default\\Survival.182.rsp\"",
+		"directory": "D:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal Engine Project\\\\Survival\\\\Survival\\\\Source\\\\Survival\\\\Survival.cpp",
+		"command": "cl.exe @\"D:\\Unreal Engine Project\\Survival\\Survival\\.vscode\\compileCommands_Default\\Survival.182.rsp\"",
+		"directory": "D:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal Engine Project\\\\Survival\\\\Survival\\\\Source\\\\Survival\\\\Survival.h",
+		"command": "cl.exe @\"D:\\Unreal Engine Project\\Survival\\Survival\\.vscode\\compileCommands_Default\\Survival.182.rsp\"",
+		"directory": "D:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal Engine Project\\\\Survival\\\\Survival\\\\Source\\\\Survival\\\\SurvivalGameModeBase.cpp",
+		"command": "cl.exe @\"D:\\Unreal Engine Project\\Survival\\Survival\\.vscode\\compileCommands_Default\\Survival.182.rsp\"",
+		"directory": "D:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal Engine Project\\\\Survival\\\\Survival\\\\Source\\\\Survival\\\\SurvivalGameModeBase.h",
+		"command": "cl.exe @\"D:\\Unreal Engine Project\\Survival\\Survival\\.vscode\\compileCommands_Default\\Survival.182.rsp\"",
+		"directory": "D:\\UE_4.26\\Engine\\Source"
+	}
+]
